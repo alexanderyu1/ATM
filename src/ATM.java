@@ -1,6 +1,6 @@
 public class ATM {
 
-    // supported name formats.
+    // supported name formats
 
     final static int DEFAULT = 1;   // e.g., Jane Doe
     final static int FORMAL = 2;    // e.g., Mrs. Doe
